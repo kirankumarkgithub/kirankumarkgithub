@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **Kubernetes**
  
  ⚡ Fun fact **Learning is a continous process**
  
