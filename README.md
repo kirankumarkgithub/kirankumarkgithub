@@ -29,7 +29,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,flask,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,git" />
 </div>
 
 <br/>
