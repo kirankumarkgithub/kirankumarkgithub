@@ -10,10 +10,6 @@
  
  🔭 I’m currently working on **a chat app**
  
- 🌱 I’m currently learning **SRE**
-
- 💬 Ask me about **AWS, Azure, ... or anything [here](https://github.com/kirankumarkgithub/kirankumarkgithub/issues)**
-
  ⚡ Fun fact **Learning is a continous process**
  
  </div>
